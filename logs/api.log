@@ -1,0 +1,9 @@
+06-07-2021 09:34:22.148 [Gauge] [CRITICAL] Invalid port number: help
+06-07-2021 09:34:44.028 [Gauge] [CRITICAL] Failed to start API Service. GAUGE_API_PORT Environment variable not set 
+06-07-2021 09:34:55.408 [Gauge] [INFO] Watching directory: c:\work\gauge_tests\specs
+06-07-2021 09:34:55.408 [Gauge] [DEBUG] Found 1 files
+06-07-2021 09:34:55.410 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+06-07-2021 09:34:55.411 [Gauge] [INFO] Initializing specs cache with 1 specs
+06-07-2021 09:34:55.411 [Gauge] [DEBUG] Adding specs from c:\work\gauge_tests\specs\example.spec
+06-07-2021 09:34:55.411 [Gauge] [INFO] Initializing steps cache with 1 steps
+06-07-2021 09:34:55.412 [Gauge] [INFO] Gauge daemon initialized and listening on port: 12345
